@@ -1,0 +1,13 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^data-raw$
+^revdep$
+^cran-comments$
+^cran-comments\.md$
+^README\.Rmd$
+^README-.*\.png$
+^\.travis\.yml$
+^.*[.]pdf$
+^CRAN-RELEASE$
+^codecov\.yml$
+^\.github$

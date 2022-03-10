@@ -1,0 +1,12 @@
+.Rproj.user
+.Rproj
+.Rhistory
+.RData
+.Ruserdata
+*.Rmd
+data-raw/*.*
+cran-comments.md
+CRAN-RELEASE
+src/*.o
+src/*.so
+src/*.dll
