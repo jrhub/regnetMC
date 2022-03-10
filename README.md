@@ -6,16 +6,10 @@
 > **Reg**ularized **Net**work-Based Variable Selection
 
 <!-- badges: start -->
-<!-- [![Travis-CI Build Status](https://travis-ci.org/jrhub/regnet.svg?branch=master)](https://travis-ci.org/jrhub/regnet) -->
 
-[![CRAN](https://www.r-pkg.org/badges/version/regnet)](https://cran.r-project.org/package=regnet)
-[![CRAN RStudio mirror
-downloads](http://cranlogs.r-pkg.org/badges/regnet)](http://www.r-pkg.org/pkg/regnet)
 [![Codecov test
-coverage](https://codecov.io/gh/jrhub/regnet/branch/master/graph/badge.svg)](https://codecov.io/gh/jrhub/regnet?branch=master)
-[![Travis build
-status](https://travis-ci.com/jrhub/regnet.svg?branch=master)](https://travis-ci.com/jrhub/regnet)
-[![R-CMD-check](https://github.com/jrhub/regnet/workflows/R-CMD-check/badge.svg)](https://github.com/jrhub/regnet/actions)
+coverage](https://codecov.io/gh/jrhub/regnetMC/branch/main/graph/badge.svg)](https://app.codecov.io/gh/jrhub/regnetMC?branch=main)
+[![R-CMD-check](https://github.com/jrhub/regnetMC/workflows/R-CMD-check/badge.svg)](https://github.com/jrhub/regnetMC/actions)
 <!-- badges: end -->
 
 Network-based regularization has achieved success in variable selection
@@ -106,6 +100,10 @@ versions.
 ![](README-unnamed-chunk-2-2.png)<!-- -->
 
 ## News
+
+### regnetMC (development version) \[2021-3\]
+
+-   regnetMC retains the multiple-cores function of regnet.
 
 ### regnet (development version) \[2020-5\]
 
