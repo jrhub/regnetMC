@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# regnet
+# regnetMC
 
 > **Reg**ularized **Net**work-Based Variable Selection
 
