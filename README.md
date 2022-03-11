@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# regnetMC
+# regnetMC (regnet with OpenMP support)
 
 > **Reg**ularized **Net**work-Based Variable Selection
 
