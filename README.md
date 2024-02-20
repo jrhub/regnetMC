@@ -9,7 +9,8 @@
 
 [![Codecov test
 coverage](https://codecov.io/gh/jrhub/regnetMC/branch/main/graph/badge.svg)](https://app.codecov.io/gh/jrhub/regnetMC?branch=main)
-[![R-CMD-check](https://github.com/jrhub/regnetMC/workflows/R-CMD-check/badge.svg)](https://github.com/jrhub/regnetMC/actions)
+[![R-CMD-check](https://github.com/jrhub/regnetMC/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jrhub/regnetMC/actions/workflows/R-CMD-check.yaml)
+<!-- [![R-CMD-check](https://github.com/jrhub/regnetMC/workflows/R-CMD-check/badge.svg)](https://github.com/jrhub/regnetMC/actions) -->
 <!-- badges: end -->
 
 Network-based regularization has achieved success in variable selection
